@@ -4,8 +4,8 @@
       "app_id_onesignal": "off",
       "interval_interstitial": 2,
       "switch_ads_type": "banner_native_linear",
-      "make_app_crash_when_app_not_live_at_play_store": true,
-      "enable_activity_maintenance_with_chat_bot": true
+      "make_app_crash_when_app_not_live_at_play_store": false,
+      "enable_activity_maintenance_with_chat_bot": false
     },
 
     "ad_network": [
