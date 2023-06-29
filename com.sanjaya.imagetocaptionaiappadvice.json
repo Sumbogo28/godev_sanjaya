@@ -27,7 +27,7 @@
   "app_settings" : {
     "list_view_mode" : "small_with_banner_ads",
     "item_interval_native_ad_list": 4,
-    "enable_category": true,
+    "enable_category": false,
     "enable_more_app": false
   },
 
